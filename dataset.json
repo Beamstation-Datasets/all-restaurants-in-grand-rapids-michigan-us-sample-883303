@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant market coverage for Grand Rapids, Michigan with a population of over 198k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Grand Rapids, Michigan, US",
+  "export_job_id": "5ae40193-e861-4a2a-84db-f07a3de16526",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 883303,
+  "location_name": "Grand Rapids",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-grand-rapids-michigan-us-sample-883303",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/883303/beamstation_883303_restaurants-us-mi_SAMPLE_DIST.csv",
+  "sample_pct": 9.54,
+  "sample_records": 58,
+  "sample_sha256": "4f40c23340daa61c255f8b6ddc0982563ab73c2499ca97183d8ecdeabdfaa3f8",
+  "sample_size_bytes": 222535,
+  "total_records": 608,
+  "updated_at": "2026-04-07T11:38:57.482476+00:00"
+}
