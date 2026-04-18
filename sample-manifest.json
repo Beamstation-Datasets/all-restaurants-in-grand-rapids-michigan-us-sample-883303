@@ -1,12 +1,12 @@
 {
-  "export_job_id": "5ae40193-e861-4a2a-84db-f07a3de16526",
+  "export_job_id": "2fc2a792-5c90-4b99-81a1-37d34c89074b",
   "id_short": 883303,
-  "published_at": "2026-04-15T07:37:00Z",
+  "published_at": "2026-04-18T07:10:25Z",
   "repo_name": "all-restaurants-in-grand-rapids-michigan-us-sample-883303",
   "sample_asset_name": "beamstation_883303_restaurants-us-mi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/883303/beamstation_883303_restaurants-us-mi_SAMPLE_DIST.csv",
   "sample_records": 58,
   "sample_sha256": "4f40c23340daa61c255f8b6ddc0982563ab73c2499ca97183d8ecdeabdfaa3f8",
   "sample_size_bytes": 222535,
-  "total_records": 608
+  "total_records": 584
 }
