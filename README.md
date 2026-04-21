@@ -1,6 +1,6 @@
 # All Restaurants in Grand Rapids, Michigan, US
 
-> Free BeamStation sample export with 58 rows and masked direct-contact fields.
+> Free BeamStation sample export with 57 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `883303` |
 | Location | Grand Rapids |
 | Category | Restaurants |
-| Full dataset size | 584 records |
-| Free sample size | 58 records (9.93%) |
-| Last export | 2026-04-14T11:35:09.472092+00:00 |
+| Full dataset size | 578 records |
+| Free sample size | 57 records (9.86%) |
+| Last export | 2026-04-21T12:02:19.415113+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-grand-rapids-michigan-us-sample-883303/releases/download/sample-latest/beamstation_883303_restaurants-us-mi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
